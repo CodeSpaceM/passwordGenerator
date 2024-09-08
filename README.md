@@ -1,5 +1,5 @@
 # passwordGenerator
-- A react app to genearte passwords of variable length with option to use numbers and special characters.
+- A react app to generate passwords of variable length with option to use numbers and special characters.
 
 ## Concepts
 - Hooks: useState, useCallback, useRef, useEffect
